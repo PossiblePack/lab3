@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-	float n=2, a=1, x;
-	while(n<70){
+	float n=6, a=1, x;
+	while(n<20){
 		x = a/n;
 		n = n+1;
 	cout << x; 
