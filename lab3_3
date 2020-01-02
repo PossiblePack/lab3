@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+	float n=2, a=1, x;
+	while(n<70){
+		x = a/n;
+		n = n+1;
+	cout << x; 
+	}
+	return 0;
+}
